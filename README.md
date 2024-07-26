@@ -1,16 +1,15 @@
-# fitness
+# Fitness App UI
 
-A new Flutter project.
+A sleek and modern fitness app UI built with Flutter. This project showcases a user-friendly and visually appealing main page for fitness tracking.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Main Page**: Overview of user activities, goals, and progress.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Main Page](screenshots/1.jgp)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Main Page](screenshots/2.jgp)
+
+![Main Page](screenshots/3.mp4)
